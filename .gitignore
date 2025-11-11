@@ -1,0 +1,17 @@
+# Design files (temporary)
+design_pages/
+
+# Large source files
+*.fig
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
